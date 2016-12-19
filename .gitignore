@@ -1,0 +1,54 @@
+#################
+## KeePassX
+#################
+oskeys.kdb.lock
+
+#################
+## IntelliJ
+#################
+.idea/
+*.iml
+
+#################
+## Maven
+#################
+target/
+
+#################
+## Gradle
+#################
+.gradle/
+build/
+
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+classes/
+
